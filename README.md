@@ -1,10 +1,12 @@
 # 🩺 Diabetes Progression Prediction with Linear Regression
 Situation:<br>
 Managing diabetes requires understanding how the disease progresses over time. Predicting future progression based on patient data can aid in better treatment and healthcare planning. Scikit-learn provides a built-in diabetes dataset ideal for demonstrating machine learning techniques in medical prediction problems.
+
 <br>
 Task:<br>
 The objective was to build a simple yet effective machine learning model using Linear Regression to predict the disease progression score based on medical attributes from the Scikit-learn Diabetes dataset.
 <br>
+
 Action:<br>
 <br>
 Utilized Scikit-learn’s load_diabetes() function to access the dataset (10 features + target).<br>
